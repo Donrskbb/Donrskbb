@@ -3,7 +3,6 @@
 ### Find Me
 
 [<img align="left" style="fill: #004d77; color: #004d77;" alt="www.battle-royale.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" style="fill: #7289DA; color: #7289DA;" KEBAB- Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" style="fill: red; color: red;" alt="KEBAB - YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" style="fill: #1DA1F2; color: #1DA1F2;" alt="KEBAB - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" style="fill: #6441A4; color: #6441A4;" alt="KEBAB - Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
@@ -38,8 +37,8 @@
 
 ### GitHub Statistics
 
-<img align="left" alt="KEBAB:" src="https://github-readme-stats.vercel.app/api?username=KEBAB&show_icons=true&hide_border=true&count_private=true" />
-<img align="left" alt="KEBAB:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEBAB" />
+<img align="left" alt="KEBAB:" src="https://github-readme-stats.vercel.app/api?username=donrskbb&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="KEBAB:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donrskbb" />
 
 
 [website]: https://battle-royale.nl
