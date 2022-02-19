@@ -1,18 +1,8 @@
-### 📠 [KEBAB][website] 📠
+### 📠 Donrskbb AKA Kebab📠
 
-### Find Me
-
-[<img align="left" style="fill: #004d77; color: #004d77;" alt="www.battle-royale.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" style="fill: red; color: red;" alt="KEBAB - YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" style="fill: #1DA1F2; color: #1DA1F2;" alt="KEBAB - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" style="fill: #6441A4; color: #6441A4;" alt="KEBAB - Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
-
+[Founder Battle Royale NL/BE](https://www.facebook.com/BattleRoyaleNLBE/groups)
 <br />
-<br />
-
-[![Discord](https://user-images.githubusercontent.com/65772844/121872683-d959be80-cd05-11eb-8bb6-7cec71545648.png)](https://battle-royale.nl/discord)
-
-<br />
+[Owner of F1 Netherlands and Belgium](https://discord.gg/QFfWm4vf34)
 
 ### Languages and Tools/Platforms:
 
@@ -41,8 +31,6 @@
 <img align="left" alt="KEBAB:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donrskbb" />
 
 
-[website]: https://battle-royale.nl
-[twitter]: https://battle-royale.nl
+[website]: https://discord.gg/QFfWm4vf34
 [twitch]: https://twitch.tv/donrskbb
-[youtube]: https://battle-royale.nl
-[discord]: https://battle-royale.nl/discord
+[discord]: https://discord.gg/QFfWm4vf34
