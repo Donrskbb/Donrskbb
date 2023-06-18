@@ -1,8 +1,8 @@
-### 📠 Donrskbb AKA Kebab📠
+### 📠 Kebab📠
 
 [Founder Battle Royale NL/BE](https://www.facebook.com/BattleRoyaleNLBE/groups)
 <br />
-[Owner of F1 Netherlands and Belgium](https://discord.gg/QFfWm4vf34)
+[Staff](https://discord.gg/deckofcards)
 
 ### Languages and Tools/Platforms:
 
