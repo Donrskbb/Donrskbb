@@ -1,5 +1,6 @@
-<h1>Hi I`m Kebab :wave:</h1>
+<h1>Hi I'm Kebab :wave:</h1>
 ### Languages and Tools/Platforms:
+![visits]https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cpp,cs,discord,bots,git,github,lua,nodejs)](https://discord.gg/deckofcards)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donrskbb&theme=vue-dark&show_icons=true)
 
