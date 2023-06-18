@@ -12,7 +12,7 @@
 
 ### GitHub Statistics
 
-https://github-stats-alpha.vercel.app/api?username={donrskbb}&cc=000&tc=fff&ic=fff&bc=000
+https://github-stats-alpha.vercel.app/api?username=donrskbb&cc=000&tc=fff&ic=fff&bc=000
 <img align="left" alt="KEBAB:" src="https://github-readme-stats.vercel.app/api?username=donrskbb&show_icons=true&hide_border=true&count_private=true" />
 <img align="left" alt="KEBAB:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donrskbb" />
 
