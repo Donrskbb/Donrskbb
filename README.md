@@ -27,6 +27,6 @@
 <img align="left" alt="KEBAB:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donrskbb" />
 
 
-[website]: https://discord.gg/QFfWm4vf34
+[website]: https://discord.gg/deckofcards
 [twitch]: https://twitch.tv/donrskbb
-[discord]: https://discord.gg/QFfWm4vf34
+[discord]: https://discord.gg/deckofcards
