@@ -2,7 +2,7 @@
 
 
 ### Languages and Tools/Platforms:
-<img src="https://visitor-badge.glitch.me/badge?page_id=donrskbb" alt="visitor badge"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=donrskbb.github.io" height="20px">
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cpp,cs,discord,bots,git,github,lua,nodejs)](https://discord.gg/deckofcards)
 
