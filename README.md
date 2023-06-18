@@ -9,6 +9,7 @@
 <br />
 <br />
 <br />
+
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cpp,cs,discord,bots,git,github,lua,nodejs)](https://discord.gg/deckofcards)
 
