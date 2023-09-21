@@ -4,6 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donrskbb&hide_progress=true)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Donrskbb)](https://github.com/donrskbb)
-[![wakatime](https://wakatime.com/badge/user/ba37c605-a7ba-410e-a5b5-325fd72b8272.svg)]
+![wakatime](https://wakatime.com/badge/user/ba37c605-a7ba-410e-a5b5-325fd72b8272.svg)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=donrskbb.github.io" height="20px">
 
