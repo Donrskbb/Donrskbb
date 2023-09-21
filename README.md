@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">A passionate frontend and lua developer from the Netherlands</h3>
-# 💫 About Me:
+
+## 💫 About Me:
 🔭 I’m currently working on PXL Digital Study<br>🌱 I’m currently learning .JS, VueJS, ReactJS
 
 
