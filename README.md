@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend and lua developer from the Netherlands</h3>
 
 ## 💫 About Me:
-🔭 I’m currently working on PXL Digital Study<br>🌱 I’m currently learning .JS, VueJS, ReactJS
+🔭 I’m currently working on PXL Digital Study<br>🌱 I’m currently learning .JS, VueJS, ReactJS and NextJS
 
 
 ## 🌐 Socials:
